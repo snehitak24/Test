@@ -1,4 +1,8 @@
 Hello Git
+<<<<<<< HEAD
 Adding now
 Read
 Hello Again
+=======
+Adding now
+>>>>>>> parent of c8f323d... read now
